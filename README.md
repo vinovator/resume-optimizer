@@ -94,5 +94,9 @@ resume-optimizer/
     ├── tasks.py          # Definition of the analysis task
     ├── crew.py           # CrewAI orchestration logic
     ├── models.py         # Pydantic models for structured output
-    └── config.py         # LLM configuration
+    ├── config.py         # LLM configuration
 ```
+
+## 📄 License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.

@@ -4,6 +4,8 @@
 
 Resume Optimizer Pro is an AI-powered application designed to help job seekers tailor their resumes to specific job descriptions. Powered by **CrewAI** and **Google Gemini**, it simulates a hiring committee to analyze your resume against a job description (JD) and provides actionable feedback and optimization.
 
+**Live Demo:** [https://resume-optimizer-pro.streamlit.app/](https://resume-optimizer-pro.streamlit.app/)
+
 ## 🚀 Features
 
 The application employs a multi-agent system acting as a "Hiring Committee":
